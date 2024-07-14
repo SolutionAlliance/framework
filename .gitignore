@@ -1,0 +1,80 @@
+x   *.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+__pycache__
+
+# Installer logs
+pip-log.txt
+*.pid
+*.rdb
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# SQLite databases
+*.sqlite
+
+# Virtual environment
+venv
+
+# Environment files
+.env
+.env-mysql
+manage.pyo
+*.pyo
+*.pyc
+__pycache__
+upload_home/*
+appserver.log*
+django_server.log*
+.idea/*
+*.xml
+*.out
+.DS_Store
+*.log
+# migrations/versions/*.py
+static_file/error_excel/*.xls
+static_file/import_excel/*.xls
+logs/
+excel/error/*.xls
+excel/error/*.xlsx
+excel/import/*.xls
+excel/import/*.xlsx
+pdf_file/*.pdf
+style_image/*
+
+# Environments
+.idea/*
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.db
